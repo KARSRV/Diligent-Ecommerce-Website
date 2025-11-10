@@ -1,4 +1,4 @@
 To run:
-git clone 
+git clone https://github.com/KARSRV/Diligent-Ecommerce-Website.git \\
 npm i
 npm run dev
